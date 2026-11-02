@@ -6,6 +6,7 @@ Pages:
 
 - `/`
 - `/privacy-policy/`
+- `/terms/`
 - `/support/`
 - `/disclaimer/`
 

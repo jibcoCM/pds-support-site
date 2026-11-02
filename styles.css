@@ -173,9 +173,18 @@ li {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 16px;
   margin-top: 28px;
+}
+
+.legal-document {
+  max-width: 880px;
+  margin: 0 auto;
+}
+
+.legal-document li > ul {
+  margin-top: 8px;
 }
 
 .card h2,
